@@ -1,4 +1,4 @@
-package com.example.zhao.MobileSafe;
+package com.example.zhao.mobilesafe;
 
 import org.junit.Test;
 
