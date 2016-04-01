@@ -1,4 +1,4 @@
-package com.example.zhao.MobileSafe;
+package com.example.zhao.mobilesafe;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
